@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madhusri-2612
+- 👋 Hi, I’m Madhumathi
 - 👀 I’m interested in exploring Data Analytics
 - 🌱 I’m currently learning Data Mining and Modelling
 
